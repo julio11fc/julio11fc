@@ -1,8 +1,9 @@
-## Hi my name is Júlio César! 
+## Olá, meu nome é Júlio César!
 
- With two years of experience as a hands-on QA analyst, I support analysis, requirements gathering and test execution based on Agile and Scrum methodologies, ensuring highly reliable products. My previous experience in technical support reinforces my ability to understand and meet customer needs, always with the goal of raising performance and satisfaction standards.
+Com mais de 2 anos de experiencia como especialista em QA, cursando Sistemas de informação atuando desde os estagios iniciais do processo como levantamento de requisitos, viabilidade, analise e execução de testes. 
+Nos projetos em que atuo, utilizo as metodologias Ágeis mais aplicadas como Scrum e Kanbam. Sempre focando na entrega de produtos com alto desempenho, performance e confiabilidade. Minhas experiencias previas trazem uma visão totalmente focada no cliente, garantindo o alinhamento entre um excelente produto e as necessidades de negocio, propondo melhorias técnicas e garantindo soluções de qualidade. Forte atuação na identificação e resolução de bugs, sempre priorizando a satisfação do usuário final e o desempenho do produto.
 
-## Social Midia 
+## Mídias Sociais 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliosoares9461/) 
 
@@ -11,11 +12,11 @@
 
 ![Júlio César'S GitHub stats](https://github-readme-stats.vercel.app/api?username=julio11fc&show_icons=true&theme=transparent)
 
-## Programming Languages
+## Linguagens de Programação
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio11fc&langs_count=8&theme=dark)
 
-## Technologies and Tools
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -47,32 +48,32 @@
 
 ## EXPERIÊNCIA PROFISSIONAL 
 
-1 - Linx Sistemas S.A - QA.
-       - Manual testing.
-       - Regression testing.
-       - Exploratory testing.
-       - Approval.
-       - Creation of test cases.
-       - Analysis of improvements.
-       - Bug verification.
-       - Daily, weekly meetings and planning to contribute to the agile development of features and improvements to the product.
-       
-2 - Linx Sistemas S.A - Helpdesk.
-       - Service for service stations.
-       - Analyze incident calls/questions.
-       - Database (IBExpert, PostgreSQL and Firebird).
-       - Propose improvements to work process flows.
+1 - Linx Sistemas S.A. - QA.
+- Testes manuais.
+- Testes de regressão.
+- Testes exploratórios.
+- Homologação.
+- Criação de casos de teste.
+- Análise de melhorias.
+- Verificação de bugs.
+- Reuniões diárias e semanais e planejamento para contribuir com o desenvolvimento ágil de funcionalidades e melhorias do produto.
 
-3 - Callink - Junior attendant.
-       - Customer service for Bradescard cards.
-       - Blocking and sending new cards.
-       - Detailing purchases and invoices.
-       - Approving credit limits.
-       - Sending passwords by mail and unlocking passwords after attempts.
-       - Offering products such as life insurance and dental plans as compensation.
+2 - Linx Sistemas S.A. - Helpdesk.
+- Atendimento aos postos de atendimento.
+- Analisar chamados/dúvidas de incidentes.
+- Banco de dados (IBExpert, PostgreSQL e Firebird).
+- Propor melhorias nos fluxos dos processos de trabalho.
+
+3 - Callink - Atendente júnior.
+- Atendimento aos clientes de cartões Bradescard.
+- Bloqueio e envio de novos cartões.
+- Detalhamento de compras e faturas.
+- Aprovação de limites de crédito.
+- Envio de senhas por e-mail e desbloqueio de senhas após tentativas.
+- Oferta de produtos como seguro de vida e plano odontológico como forma de compensação.
 
 
 ## FORMAÇÃO ACADÊMICA 
 
 UFU - Universidade Federal de Uberlândia.
-- Studying information systems
+- Cursando sistemas de informação
