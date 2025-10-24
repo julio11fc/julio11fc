@@ -48,23 +48,30 @@ Nos projetos em que atuo, utilizo as metodologias Ágeis mais aplicadas como Scr
 
 ## EXPERIÊNCIA PROFISSIONAL 
 
-1 - Linx Sistemas S.A. - QA.
-- Testes manuais.
-- Testes de regressão.
-- Testes exploratórios.
-- Homologação.
-- Criação de casos de teste.
-- Análise de melhorias.
-- Verificação de bugs.
-- Reuniões diárias e semanais e planejamento para contribuir com o desenvolvimento ágil de funcionalidades e melhorias do produto.
+1 - Dardani Sitemas
+Elaboração e execução no cenário de Testes Funcionais, Manuais e Exploratórios)
+Testes Automatizados com Robot framework
+Testes de API (Playwright e Postman)
+Análise e consulta de dados (PGadmin4, Firebird e IBExpert)
+Documentaçao em (BDD e TDD)
+Metodologia agil Scrum
 
-2 - Linx Sistemas S.A. - Helpdesk.
+2 - Stone. - QA.
+CI/CD | Quadro Kanban (Jira)
+DevOps
+Testes automatizados com Cypress e Testlink
+Testes manuais, funcionais, explorativos, caixa branca (Nativo, mobile e WEB), testes regressivos com Testlink e Perfomace com JMeter
+Sitemas em Delphi e Python
+Banco de dados e criaçao de triggers (JMeter, PGadmin, IBExpert)
+Reuniões diárias, semanais e planning à contribuir de forma ágil funcionalidades e melhorias no produto.
+
+3 - Linx Sistemas S.A. - Helpdesk.
 - Atendimento aos postos de atendimento.
 - Analisar chamados/dúvidas de incidentes.
 - Banco de dados (IBExpert, PostgreSQL e Firebird).
 - Propor melhorias nos fluxos dos processos de trabalho.
 
-3 - Callink - Atendente júnior.
+4 - Callink - Atendente júnior.
 - Atendimento aos clientes de cartões Bradescard.
 - Bloqueio e envio de novos cartões.
 - Detalhamento de compras e faturas.
